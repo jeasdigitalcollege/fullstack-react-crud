@@ -1,0 +1,82 @@
+{
+   "users": [
+      {
+         "id": "1",
+         "name": "Gabriel",
+         "email": "gabriel@email.com",
+         "phone": 85988765432
+      },
+      {
+         "id": "2",
+         "name": "Jorge",
+         "email": "jeas@email.com",
+         "phone": 85988765234
+      },
+      {
+         "id": "3",
+         "name": "Maria",
+         "email": "mary@email.com",
+         "phone": 85999999999
+      },
+      {
+         "id": "71d4",
+         "name": "Mario",
+         "email": "mario@",
+         "phone": "87611"
+      },
+      {
+         "id": "8bc6",
+         "name": "Tiago",
+         "email": "tiago@email.com",
+         "phone": "8512345"
+      },
+      {
+         "id": "fb46",
+         "name": "Meire",
+         "email": "meire@uol.com",
+         "phone": "8766122"
+      },
+      {
+         "id": "2205",
+         "name": "Paulo",
+         "email": "paulo@email.com",
+         "phone": "856789"
+      },
+      {
+         "id": "32ca",
+         "name": "Pedro",
+         "email": "pedro@email.com",
+         "phone": "8719900"
+      },
+      {
+         "id": "5526",
+         "name": "Juca",
+         "email": "juca@out",
+         "phone": "98999233"
+      },
+      {
+         "id": "6509",
+         "name": "Jorge Eduardo",
+         "email": "jeas@outlook.com",
+         "phone": "85988185327"
+      },
+      {
+         "id": "39ac",
+         "name": "Fátima Queiroz",
+         "email": "fqs@email.com",
+         "phone": "85988767890"
+      },
+      {
+         "id": "2828",
+         "name": "Eduardo Massao",
+         "email": "eduardo@email.com",
+         "phone": "85988765432"
+      },
+      {
+         "id": "0624",
+         "name": "Pedro Henrique",
+         "email": "phenrique@email.com",
+         "phone": "85988765432"
+      }
+   ]
+}
