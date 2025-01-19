@@ -31,5 +31,3 @@ Node.js
    ```bash
    git clone https://github.com/jeasdigitalcollege/fullstack-react-crud.git
    ```
-
-2. Alteração do arquivo
