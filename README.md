@@ -29,7 +29,7 @@ Node.js
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/username/react-crud-app.git
+   git clone[ https://github.com/jeasdigitalcollege/fullstack-react-crud.git ]
    ```
 
 2. Alteração do arquivo
